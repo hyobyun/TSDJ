@@ -2,7 +2,7 @@ TSDJ
 ====
 ![TSDJ Screenshot](/screenshot.png?raw=true "TSDJ Screenshot")
 
-TSDJ is an intelligent, customizable , data-driven DJ engine. Created for the Emory Robotics Club Share a Hack With Coke 2014 Hackathon held at Emory University. TSDJ uses the Spotify API to authenticate users, retrieve playlists, and play music samples. The Echonest API is used to retrieve song attributes.
+TSDJ is an intelligent, customizable , data-driven DJ engine. Created for the Emory Robotics Club Share a Hack With Coke 2014 Hackathon held at Emory University. TSDJ uses the Spotify API to authenticate users, retrieve playlists, and play music samples. The Echonest API is used to retrieve song attributes. It won 3rd place at the hackathon.
 
 The DJ works by allowing the users to match up a timeseries to a musical attribute such as "Danceability" or "Energy". Some timeseries functions currently implemented include a sine wave, a random function, the bitcoin price, and the weather temperature. It is easily extendable. The datasource is really up to your imagination. 
 
